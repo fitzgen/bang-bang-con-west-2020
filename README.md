@@ -7,3 +7,7 @@
 > Yep, it’s time to synthesize. But this ain’t Moog, this is program
 > synthesis. What is that, and how can it upgrade our optimizers into
 > super-optimizers? We’ll find out!!
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+  <img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" />
+</a>
