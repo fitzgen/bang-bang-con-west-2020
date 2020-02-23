@@ -10,6 +10,8 @@
 
 I presented this talk at [!!Con West](http://bangbangcon.com/west/) 2020.
 
+[**View Slides**](https://fitzgen.github.io/bang-bang-con-west-2020/)
+
 ## Learn More!
 
 For more details, see my blog post: [Synthesizing Loop-Free Programs with Rust
